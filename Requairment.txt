@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+imblearn.over sampling
+sklearn
